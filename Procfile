@@ -1,1 +1,1 @@
-worker: python vitamin_bot_ready.py
+worker: python vitamin_bot_v3.py
